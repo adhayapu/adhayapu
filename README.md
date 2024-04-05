@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adhayapu
+- 👋 Hi, I’m @adhayapu, you can call me Akku
 - 👀 I’m interested in healthcare and helping non profit organisations
 - 🌱 I’m currently learning data science and coding
 - 💞️ I’m looking to collaborate on anything that will help me code 
